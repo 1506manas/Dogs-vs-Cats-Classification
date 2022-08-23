@@ -40,31 +40,16 @@
 <h3 align="left"> Some of my stats 📊:</h3>
 
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codERSunny812&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="codERSunny812" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1506manas&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="codERSunny812" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codERSunny812&show_icons=true&theme=midnight-purple" alt="codERSunny812" /></p>
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1506manas&show_icons=true&theme=midnight-purple" alt="codERSunny812" /></p>
 
-<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codERSunny812&theme=midnight-purple" alt="codERSunny812" /></p>
+<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1506manas&theme=midnight-purple" alt="codERSunny812" /></p>
 
 
-<p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=https://github.com/codERSunny812/myportfolio"> </p> 
+<p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=1506manas&repo=https://github.com/codERSunny812/myportfolio"> </p> 
  
  <hr>
-
-
- <h3 align="centre"> Top repositary <h3>
- &nbsp;&nbsp;
-<a href="https://github.com/codERSunny812/travelblog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=travelblog&theme=midnight-purple" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/codERSunny812/travelWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=travelWeb&theme=midnight-purple" />
-</a>
- <br>
- <br>
- <br>
- <br>
- <br>
  <p>
   <i>“Ruby is rubbish! PHP is phpantastic!”</i>
   <i> – Nikita Popov</i>
