@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1506manas&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="codERSunny812" /></a> </p>
 
- - 🔭 I’m currently working on a Platform Project *Ayodhya's complete site*
+ - 🔭 I’m currently working on a Platform Project *Sentiment Analysis in Hindi*
 
-- 🌱 I’m currently learning *Python*, *Python* and *Embedded C*
+- 🌱 I’m currently learning *Python*, *Machine Learning* and *NLP*
 
 - 👨‍💻 All of my projects are available at [github.com/1506manas/](github.com/1506manas)
 
